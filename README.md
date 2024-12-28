@@ -3,7 +3,7 @@
 
 <br/>
 
-- Calculating and Comparing Rates of Return in Python
+- Calculating and Comparing Rates of Return
   - Simple returns
   - Logarithmic returns
   - Calculating return of a portfolio of securities
@@ -17,18 +17,18 @@
 
 - Using Regression for Financial Analysis
   - Running a Regression in Python
-  - Computing Alpha, Beta, and R Squared in Python
+  - Computing Alpha, Beta, and R²
 
 - Markowitz Portfolio Optimization
-  - Obtaining the Efficient Frontier in Python
+  - Obtaining the Efficient Frontier
 
 - Financial Asset Pricing Model
   - Calculating the Beta of a Stock
   - Calculating the Expected Return of a Stock (CAPM)
-  - Estimating the Sharpe Ratio in Python
+  - Estimating the Sharpe Ratio
 
 - Multivariate Regression Analysis
-  - Running a Multivariate Regression in Python
+  - Running a Multivariate Regression
 
 - Monte Carlo Simulations as a Decision-Making Tool
   - The Essence of Monte Carlo Simulations
