@@ -3,7 +3,7 @@
 
 <br/>
 
-- Calculating and Comparing Rates of Return
+- [Calculating and Comparing Rates of Return](https://github.com/pmusachio/python-for-finance/blob/main/scripts/01_rates_of_return.ipynb)
   - Simple returns
   - Logarithmic returns
   - Calculating return of a portfolio of securities
